@@ -1,0 +1,541 @@
+84209 was saved for later use.
+Insertion # 0 => 84209
+Insertion # 1 => 95735
+Insertion # 2 => 51496
+94553 was saved for later use.
+Insertion # 3 => 94553
+Insertion # 4 => 10372
+Insertion # 5 => 11201
+38597 was saved for later use.
+Insertion # 6 => 38597
+Insertion # 7 => 18904
+Insertion # 8 => 17241
+44002 was saved for later use.
+Insertion # 9 => 44002
+Insertion # 10 => 10224
+Insertion # 11 => 10289
+56552 was saved for later use.
+Insertion # 12 => 56552
+Insertion # 13 => 97746
+Insertion # 14 => 95248
+77278 was saved for later use.
+Insertion # 15 => 77278
+Insertion # 16 => 48475
+Insertion # 17 => 54604
+50391 was saved for later use.
+Insertion # 18 => 50391
+Insertion # 19 => 52595
+Insertion # 20 => 68638
+37184 was saved for later use.
+Insertion # 21 => 37184
+Insertion # 22 => 8290
+Insertion # 23 => 34342
+33289 was saved for later use.
+Insertion # 24 => 33289
+Insertion # 25 => 63664
+Insertion # 26 => 90956
+26550 was saved for later use.
+Insertion # 27 => 26550
+Insertion # 28 => 80537
+Insertion # 29 => 82587
+77854 was saved for later use.
+Insertion # 30 => 77854
+Insertion # 31 => 29749
+Insertion # 32 => 82349
+13301 was saved for later use.
+Insertion # 33 => 13301
+Insertion # 34 => 7899
+Insertion # 35 => 83329
+51558 was saved for later use.
+Insertion # 36 => 51558
+Insertion # 37 => 83573
+Insertion # 38 => 37700
+2366 was saved for later use.
+Insertion # 39 => 2366
+Insertion # 40 => 62214
+Insertion # 41 => 9281
+32545 was saved for later use.
+Insertion # 42 => 32545
+Insertion # 43 => 68364
+Insertion # 44 => 50435
+29178 was saved for later use.
+Insertion # 45 => 29178
+Insertion # 46 => 74821
+Insertion # 47 => 60798
+73599 was saved for later use.
+Insertion # 48 => 73599
+Insertion # 49 => 36422
+Message: dump after 50 insertions in a table with 101 buckets:
+[0] : John (serial 94553)
+[1] : John (serial 10372)
+[2] : John (serial 11201)
+[3] : John (serial 38597)
+[4] : John (serial 18904)
+[5] : John (serial 17241)
+[6] : John (serial 44002)
+[7] : John (serial 10224)
+[8] : John (serial 10289)
+[9] : John (serial 56552)
+[10] : John (serial 97746)
+[11] : John (serial 95248)
+[12] : John (serial 77278)
+[13] : John (serial 48475)
+[14] : John (serial 54604)
+[15] : John (serial 50391)
+[16] : John (serial 52595)
+[17] : John (serial 68638)
+[18] : John (serial 37184)
+[19] : John (serial 8290)
+[20] : John (serial 34342)
+[21] : John (serial 33289)
+[22] : John (serial 63664)
+[23] : John (serial 90956)
+[24] : John (serial 26550)
+[25] : John (serial 80537)
+[26] : John (serial 82587)
+[27] : John (serial 77854)
+[28] : John (serial 29749)
+[29] : John (serial 82349)
+[30] : John (serial 13301)
+[31] : John (serial 7899)
+[32] : John (serial 83329)
+[33] : John (serial 51558)
+[34] : John (serial 83573)
+[35] : John (serial 37700)
+[36] : John (serial 2366)
+[37] : John (serial 62214)
+[38] : John (serial 9281)
+[39] : John (serial 32545)
+[40] : John (serial 68364)
+[41] : John (serial 50435)
+[42] : John (serial 29178)
+[43] : John (serial 74821)
+[44] : John (serial 60798)
+[45] : John (serial 73599)
+[46] : John (serial 36422)
+[47] : 
+[48] : 
+[49] : 
+[50] : 
+[51] : 
+[52] : 
+[53] : 
+[54] : 
+[55] : 
+[56] : 
+[57] : 
+[58] : 
+[59] : 
+[60] : 
+[61] : 
+[62] : 
+[63] : 
+[64] : 
+[65] : 
+[66] : 
+[67] : 
+[68] : 
+[69] : 
+[70] : 
+[71] : 
+[72] : 
+[73] : 
+[74] : 
+[75] : 
+[76] : 
+[77] : 
+[78] : 
+[79] : 
+[80] : 
+[81] : 
+[82] : 
+[83] : 
+[84] : 
+[85] : 
+[86] : 
+[87] : 
+[88] : 
+[89] : 
+[90] : 
+[91] : 
+[92] : 
+[93] : 
+[94] : 
+[95] : 
+[96] : 
+[97] : 
+[98] : John (serial 84209)
+[99] : John (serial 95735)
+[100] : John (serial 51496)
+Insertion # 51 => 44768
+Message: dump after 51st insertion, the rehash should have happended to a table with 211 buckets:
+[0] : 
+[1] : 
+[2] : 
+[3] : John (serial 9281)
+[4] : John (serial 51496)
+[5] : John (serial 83329)
+[6] : 
+[7] : 
+[8] : 
+[9] : 
+[10] : 
+[11] : 
+[12] : 
+[13] : 
+[14] : John (serial 34342)
+[15] : 
+[16] : 
+[17] : 
+[18] : 
+[19] : John (serial 84209)
+[20] : 
+[21] : John (serial 54604)
+[22] : 
+[23] : 
+[24] : 
+[25] : 
+[26] : 
+[27] : 
+[28] : John (serial 80537)
+[29] : John (serial 50435)
+[30] : 
+[31] : 
+[32] : 
+[33] : John (serial 82349)
+[34] : 
+[35] : 
+[36] : John (serial 94553)
+[37] : John (serial 10372)
+[38] : 
+[39] : 
+[40] : John (serial 11201)
+[41] : 
+[42] : John (serial 36422)
+[43] : 
+[44] : 
+[45] : John (serial 38597)
+[46] : 
+[47] : 
+[48] : 
+[49] : 
+[50] : John (serial 50391)
+[51] : 
+[52] : John (serial 18904)
+[53] : 
+[54] : 
+[55] : John (serial 33289)
+[56] : 
+[57] : 
+[58] : 
+[59] : 
+[60] : 
+[61] : John (serial 17241)
+[62] : 
+[63] : 
+[64] : 
+[65] : 
+[66] : John (serial 2366)
+[67] : 
+[68] : 
+[69] : 
+[70] : John (serial 51558)
+[71] : 
+[72] : John (serial 44002)
+[73] : John (serial 60798)
+[74] : 
+[75] : 
+[76] : 
+[77] : 
+[78] : 
+[79] : John (serial 82587)
+[80] : John (serial 32545)
+[81] : John (serial 52595)
+[82] : 
+[83] : 
+[84] : 
+[85] : John (serial 10224)
+[86] : 
+[87] : 
+[88] : 
+[89] : 
+[90] : 
+[91] : 
+[92] : John (serial 13301)
+[93] : 
+[94] : 
+[95] : 
+[96] : 
+[97] : 
+[98] : John (serial 63664)
+[99] : 
+[100] : John (serial 10289)
+[101] : 
+[102] : 
+[103] : 
+[104] : 
+[105] : 
+[106] : 
+[107] : 
+[108] : 
+[109] : 
+[110] : 
+[111] : 
+[112] : John (serial 29178)
+[113] : 
+[114] : John (serial 68638)
+[115] : 
+[116] : John (serial 95735)
+[117] : John (serial 56552)
+[118] : 
+[119] : 
+[120] : 
+[121] : 
+[122] : 
+[123] : 
+[124] : 
+[125] : 
+[126] : 
+[127] : 
+[128] : 
+[129] : 
+[130] : 
+[131] : 
+[132] : John (serial 77854)
+[133] : 
+[134] : 
+[135] : John (serial 44768)
+[136] : John (serial 97746)
+[137] : John (serial 83573)
+[138] : 
+[139] : John (serial 62214)
+[140] : 
+[141] : 
+[142] : 
+[143] : John (serial 90956)
+[144] : 
+[145] : 
+[146] : 
+[147] : 
+[148] : 
+[149] : John (serial 37184)
+[150] : 
+[151] : 
+[152] : 
+[153] : John (serial 7899)
+[154] : 
+[155] : 
+[156] : 
+[157] : John (serial 95248)
+[158] : 
+[159] : John (serial 68364)
+[160] : 
+[161] : 
+[162] : John (serial 73599)
+[163] : 
+[164] : 
+[165] : 
+[166] : 
+[167] : 
+[168] : 
+[169] : 
+[170] : 
+[171] : 
+[172] : 
+[173] : 
+[174] : 
+[175] : 
+[176] : 
+[177] : 
+[178] : 
+[179] : 
+[180] : John (serial 77278)
+[181] : 
+[182] : 
+[183] : 
+[184] : 
+[185] : 
+[186] : John (serial 8290)
+[187] : John (serial 29749)
+[188] : 
+[189] : 
+[190] : John (serial 26550)
+[191] : 
+[192] : 
+[193] : 
+[194] : 
+[195] : 
+[196] : 
+[197] : John (serial 74821)
+[198] : 
+[199] : 
+[200] : 
+[201] : 
+[202] : 
+[203] : 
+[204] : 
+[205] : John (serial 48475)
+[206] : John (serial 37700)
+[207] : 
+[208] : 
+[209] : 
+[210] : 
+Message: dump after 14 removes, a rehash should have happened to a table with 157 buckets,
+Message: after 13 removals the rehash happens, then the 14th removal will be tagged as DELETED in the new table.
+[0] : John (serial 10372)
+[1] : John (serial 11201)
+[2] : John (serial 36422)
+[3] : John (serial 18904)
+[4] : John (serial 17241)
+[5] : DELETED (serial 0)
+[6] : John (serial 60798)
+[7] : John (serial 82587)
+[8] : John (serial 32545)
+[9] : John (serial 52595)
+[10] : John (serial 10224)
+[11] : John (serial 63664)
+[12] : John (serial 10289)
+[13] : John (serial 29178)
+[14] : John (serial 68638)
+[15] : John (serial 95735)
+[16] : John (serial 44768)
+[17] : John (serial 97746)
+[18] : John (serial 83573)
+[19] : John (serial 62214)
+[20] : John (serial 90956)
+[21] : John (serial 7899)
+[22] : John (serial 95248)
+[23] : John (serial 68364)
+[24] : John (serial 73599)
+[25] : John (serial 8290)
+[26] : John (serial 29749)
+[27] : John (serial 74821)
+[28] : John (serial 48475)
+[29] : John (serial 37700)
+[30] : 
+[31] : 
+[32] : 
+[33] : 
+[34] : 
+[35] : 
+[36] : 
+[37] : 
+[38] : 
+[39] : 
+[40] : 
+[41] : 
+[42] : 
+[43] : 
+[44] : 
+[45] : 
+[46] : 
+[47] : 
+[48] : 
+[49] : 
+[50] : 
+[51] : 
+[52] : 
+[53] : 
+[54] : 
+[55] : 
+[56] : 
+[57] : 
+[58] : 
+[59] : 
+[60] : 
+[61] : 
+[62] : 
+[63] : 
+[64] : 
+[65] : 
+[66] : 
+[67] : 
+[68] : 
+[69] : 
+[70] : 
+[71] : 
+[72] : 
+[73] : 
+[74] : 
+[75] : 
+[76] : 
+[77] : 
+[78] : 
+[79] : 
+[80] : 
+[81] : 
+[82] : 
+[83] : 
+[84] : 
+[85] : 
+[86] : 
+[87] : 
+[88] : 
+[89] : 
+[90] : 
+[91] : 
+[92] : 
+[93] : 
+[94] : 
+[95] : 
+[96] : 
+[97] : 
+[98] : 
+[99] : 
+[100] : 
+[101] : 
+[102] : 
+[103] : 
+[104] : 
+[105] : 
+[106] : 
+[107] : 
+[108] : 
+[109] : 
+[110] : 
+[111] : 
+[112] : 
+[113] : 
+[114] : 
+[115] : 
+[116] : 
+[117] : 
+[118] : 
+[119] : 
+[120] : 
+[121] : 
+[122] : 
+[123] : 
+[124] : 
+[125] : 
+[126] : 
+[127] : 
+[128] : 
+[129] : 
+[130] : 
+[131] : 
+[132] : 
+[133] : 
+[134] : 
+[135] : 
+[136] : 
+[137] : 
+[138] : 
+[139] : 
+[140] : 
+[141] : 
+[142] : 
+[143] : 
+[144] : 
+[145] : 
+[146] : 
+[147] : 
+[148] : 
+[149] : John (serial 9281)
+[150] : John (serial 51496)
+[151] : John (serial 83329)
+[152] : John (serial 34342)
+[153] : John (serial 54604)
+[154] : John (serial 80537)
+[155] : John (serial 50435)
+[156] : John (serial 82349)
